@@ -1,0 +1,20 @@
+# Prompt Library – Workplace Scenario: [Write your role here]
+
+This file contains the prompts developed during Day 1 of the training, using the C.A.R.E, R.C.T.O, and Few-Shot frameworks. All prompts should be aligned with your selected workplace scenario.
+
+## Prompt Table
+
+| Prompt Name | Workplace Task | Framework | Prompt | Expected Output |
+|-------------|----------------|-----------|--------|-----------------|
+| [Write name] | [Task] | C.A.R.E | [Your prompt] | [Example output] |
+| [Write name] | [Task] | R.C.T.O | [Your prompt] | [Example output] |
+| [Write name] | [Task] | Few-Shot | [Your prompt] | [Example output] |
+| [Write name] | [Task] | C.A.R.E | [Your prompt] | [Example output] |
+| [Write name] | [Task] | R.C.T.O | [Your prompt] | [Example output] |
+
+> Note: You must add 5–8 prompts from your Day 1 work.  
+> If any prompt is incomplete or unclear, tell me and I will help you refine it.
+
+## Usage Notes
+- Use this prompt when you need to: [Describe when to use it]
+- This prompt is suitable for: [Describe the task]
