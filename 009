@@ -1,0 +1,38 @@
+# Responsible AI – Administrative Assistant (HR & Engineering Coordination)
+
+This section applies the six responsible-use concepts from Day 3 to real tasks in my role.
+
+---
+
+## Accuracy
+I ensure that any AI-generated summary or draft matches the actual HR request, engineering update, or project card details. I compare the output with the original source before using it.
+
+## Accountability
+I take responsibility for reviewing AI-generated content before sending it to HR, engineers, or project managers. My name is on the final communication, so I verify everything.
+
+## Confidentiality
+I avoid including restricted project details, internal engineering information, or sensitive HR data in any AI prompt. Confidential information is never shared with unapproved tools.
+
+## Privacy
+I do not enter employee names, ID numbers, phone numbers, or any personal identifiers into AI tools. When needed, I anonymize the information.
+
+## Bias
+I check that summaries or recommendations do not favor one employee, team, or department unfairly. I ensure the output reflects the full context, not a one‑sided view.
+
+## Human Oversight
+I always review and approve AI-generated content before sending it. Final decisions—especially HR or project-related—are made by humans, not AI.
+
+---
+
+## Information Classification (Green / Amber / Red)
+
+| Information Item | Classification | Reason |
+|------------------|----------------|--------|
+| General HR coordination tasks | Green | Non-sensitive, general administrative information. |
+| Engineering meeting summary (without names) | Amber | Internal operational details; requires judgment before sharing. |
+| Restricted project access card request details | Red | Contains sensitive project information and must not be shared with AI. |
+
+---
+
+## Confirmation Statement
+I confirm that no real confidential, private, or sensitive organizational data is included in this portfolio. All examples are fictional or anonymized. AI-generated content was reviewed before inclusion.
