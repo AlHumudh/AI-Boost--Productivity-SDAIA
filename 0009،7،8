@@ -1,0 +1,65 @@
+# Personal AI Integration Plan – Administrative Assistant (HR & Engineering Coordination)
+
+This plan outlines how AI will support three recurring tasks in my role.
+
+---
+
+## Task 1: Preparing HR Coordination Summaries
+### Expected Benefit
+Faster preparation of summaries with fewer manual errors.
+
+### Preferred Prompt / Workflow
+Use a structured C.A.R.E prompt to summarize HR requests without including personal data.
+
+### Risk / Verification Requirement
+Risk: Incorrect or incomplete HR details.  
+Verification: Compare the AI summary with the original HR message before sending.
+
+### Usage Frequency
+Daily
+
+### Success Criteria
+Accurate summaries that require minimal correction.
+
+---
+
+## Task 2: Drafting Engineering Meeting Follow-Ups
+### Expected Benefit
+Clearer action items and faster communication with engineering teams.
+
+### Preferred Prompt / Workflow
+Use an information‑workflow prompt to extract action items from meeting notes.
+
+### Risk / Verification Requirement
+Risk: Missing or misinterpreted technical details.  
+Verification: Review action items with the meeting notes and confirm with the engineer if needed.
+
+### Usage Frequency
+Weekly
+
+### Success Criteria
+Action lists that match the meeting discussion and reduce back‑and‑forth clarification.
+
+---
+
+## Task 3: Preparing Restricted Project Access Card Requests
+### Expected Benefit
+More organized and clearer request drafts for project managers.
+
+### Preferred Prompt / Workflow
+Use a planning‑workflow prompt to structure the request without including sensitive project details.
+
+### Risk / Verification Requirement
+Risk: Sensitive project information must not be shared with AI.  
+Verification: Remove all project identifiers and manually review the final draft before submission.
+
+### Usage Frequency
+Weekly
+
+### Success Criteria
+Accurate, compliant drafts that are approved quickly by project managers.
+
+---
+
+## Final Statement
+This integration plan reflects safe, practical, and responsible AI use in my administrative role. All workflows include human review and avoid sharing sensitive or restricted project information.
